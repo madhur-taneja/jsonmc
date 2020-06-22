@@ -4,15 +4,23 @@
 
 A comprehensive collection of movies and actors easy to use and parse in json file format segregated by release year.
 
+## Contributing
+
+Every October, this repository receives a lot of attention. If you want to work on any of the issues tagged Hacktoberfest, please, say so in the issue and I'll make sure to merge the PRs of those who came first.
+
+If you're looking for issues to contribute, check those that does not have a "dibs" label. Check the comments, if nobody requested "dibs", make sure to leave your comment so you can get your PR merged first for that issue.
+
+Make sure to always reference your pull requests with the respective issue by adding `Fixes #100` on your commit message, PR title or PR description. A template has been provided to help you out.
+
 ### A movie has the following details
 
 
 Movie attribute | Details
 ----------------|--------------
 Release date | YYYY-MM-DD release date
-Categories | Action, adventure, comedy, animation, family, fantasy, sci-fi
+Categories | Action, adventure, comedy, animation, family, fantasy, sci-fi, sport
 Director | Directors of the movie
-Writers | Screeplay and story writers
+Writers | Screenplay and story writers
 Actors | Main casts of the movie
 Year | Movie released year
 Runtime | Runtime in mins
